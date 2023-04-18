@@ -4,7 +4,7 @@
 
 <h2 style="text-align: center; font-style: normal; font-weight: 400; font-size: 20px; line-height: 1.5;">Меня зовут <span style="font-weight: 700;">Андрей</span>. Я начинающий <em>frontend-разработчик</em>.</h2>
 
-#
+___
 
 <h3 style=" font-style: normal; font-weight: 400; font-size: 20px; line-height: 1.5;">В прошлой жизни мне очень часто приходилось сталкиваться с отсутствием удобных интерфейсов для выполнения стоящих передо мной задач. Теперь я здесь и попытаюсь это изменить.</h3>
 
