@@ -26,7 +26,7 @@ ___
 ### Знаю "за что хвататься" при работе с макетами <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" width="30" height="30" align="center" />
 ### Вашему вниманию представлена некоторая аналитика моей деятельности [![codewars](https://www.codewars.com/users/FeNjK/badges/micro)](https://www.codewars.com/users/FeNjK)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeNjK&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeNjK&show_icons=true&theme=transparent&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeNjK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### В процессе изучения находятся:
 ___
