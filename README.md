@@ -1,3 +1,7 @@
+
+![programmer](https://user-images.githubusercontent.com/98194605/232784543-10ede231-555c-4c23-9339-1a90e018df43.gif)
+
+
 ### Hi there 👋
 
 <!--
