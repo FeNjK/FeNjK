@@ -1,12 +1,12 @@
-<img src="./developer.gif" alt="developer" width="900" height="300" align="center" />
+<img src="./developer.gif" alt="developer" width="900" height="300" align="center"/>
 
-<h1 style="text-align: center; font-style: normal; font-weight: 600; font-size: 30px; line-height: 2;"> Всем привет! 👋</h1>
+<h1 style="text-align: center; font-style: normal; font-weight: 600; font-size: 30px; line-height: 2;"> Всем привет! 👋
 
-<h2 style="text-align: center; font-style: normal; font-weight: 400; font-size: 20px; line-height: 1.5;">Меня зовут <span style="font-weight: 700;">Андрей</span>. Я начинающий <em>frontend-разработчик</em>.</h2>
+<h2 style="text-align: center; font-style: normal; font-weight: 400; font-size: 20px; line-height: 1.5;">Меня зовут <span style="font-weight: 700;">Андрей</span>. Я начинающий <em>frontend-разработчик</em>.
 
 ___
 
-<h3 style=" font-style: normal; font-weight: 200; font-size: 20px; line-height: 1.5;">В прошлой жизни мне очень часто приходилось сталкиваться с отсутствием удобных интерфейсов для выполнения стоящих передо мной задач. Теперь я здесь и попытаюсь это изменить.</h3>
+<h3 style=" font-style: normal; font-weight: 200; font-size: 20px; line-height: 1.5;">В прошлой жизни мне очень часто приходилось сталкиваться с отсутствием удобных интерфейсов для выполнения стоящих передо мной задач. Теперь я здесь и попытаюсь это изменить.
 
 ___
 ## Инструменты: 
@@ -39,16 +39,12 @@ ___
 ## Мои контакты
 <a href="https://t.me/FeNjK">
   <img alt="Telegram" width="30" height="30" src="https://cdn.icon-icons.com/icons2/2429/PNG/96/telegram_logo_icon_147228.png"/>
-</a>
 <a href="https://discord.com/channels/@FeNjK#4943">
   <img alt="Discord" width="30" height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/96/discord_icon_130958.png"/>
-</a>
 <a href="https://wa.me/79168798760">
   <img alt="Whatsapp" width="30" height="30" src="https://cdn.icon-icons.com/icons2/41/PNG/96/whatsappmessage_conversation_whatsap_7149.png"/>
-</a>
 <a href="mailto:bodhisatva_xp@mai.ru">
   <img alt="e-mail" width="30" height="30" src="https://cdn.icon-icons.com/icons2/1154/PNG/96/1486564396-mail_81524.png"/>
-</a>
 <a href="https://career.habr.com/fenjk1">
   <img alt="ХабрКарьера" width="30" height="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/96/habr_logo_icon_145210.png"/>
 
