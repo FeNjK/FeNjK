@@ -4,7 +4,7 @@
 
 <h2 style="text-align: center; font-style: normal; font-weight: 400; font-size: 20px; line-height: 1.5;">Меня зовут <span style="font-weight: 700;">Андрей</span>. Я начинающий <em>frontend-разработчик</em>.
 
-<h3 style=" font-style: normal; font-weight: 200; font-size: 20px; line-height: 1.5;">В прошлой жизни мне очень часто приходилось сталкиваться с отсутствием удобных интерфейсов для выполнения стоящих передо мной задач. Теперь я здесь и попытаюсь это изменить.
+<h3 style="font-style: normal; font-weight: lighter; font-size: 20px; line-height: 1.5;">В прошлой жизни мне очень часто приходилось сталкиваться с отсутствием удобных интерфейсов для выполнения стоящих передо мной задач. Теперь я здесь и попытаюсь это изменить.
 
 ## Инструменты: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
