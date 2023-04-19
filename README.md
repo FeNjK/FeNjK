@@ -5,6 +5,7 @@
 <h2 style="text-align: center; font-style: normal; font-weight: 400; font-size: 20px; line-height: 1.5;">Меня зовут <span style="font-weight: 700;">Андрей</span>. Я начинающий <em>frontend-разработчик</em>.</h2>
 
 ___
+___
 
 <h3 style=" font-style: normal; font-weight: 200; font-size: 20px; line-height: 1.5;">В прошлой жизни мне очень часто приходилось сталкиваться с отсутствием удобных интерфейсов для выполнения стоящих передо мной задач. Теперь я здесь и попытаюсь это изменить.</h3>
 
@@ -24,7 +25,7 @@ ___
 ### Знаю "за что хвататься" при работе с макетами <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" width="30" height="30" align="center" />
 ___
 ## Статистика [![codewars](https://www.codewars.com/users/FeNjK/badges/micro)](https://www.codewars.com/users/FeNjK)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeNjK&show_icons=true&theme=transparent&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeNjK&show_icons=true&theme=transparent&hide=contribs,issues&hide=contribs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeNjK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ___
 ## В процессе изучения находятся:
