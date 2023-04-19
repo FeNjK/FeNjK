@@ -4,11 +4,8 @@
 
 <h2 style="text-align: center; font-style: normal; font-weight: 400; font-size: 20px; line-height: 1.5;">Меня зовут <span style="font-weight: 700;">Андрей</span>. Я начинающий <em>frontend-разработчик</em>.
 
-___
-
 <h3 style=" font-style: normal; font-weight: 200; font-size: 20px; line-height: 1.5;">В прошлой жизни мне очень часто приходилось сталкиваться с отсутствием удобных интерфейсов для выполнения стоящих передо мной задач. Теперь я здесь и попытаюсь это изменить.
 
-___
 ## Инструменты: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,12 +18,13 @@ ___
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ### Знаю "за что хвататься" при работе с макетами <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" width="30" height="30" align="center" />
-___
+
 ## Статистика [![codewars](https://www.codewars.com/users/FeNjK/badges/micro)](https://www.codewars.com/users/FeNjK)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeNjK&show_icons=true&theme=transparent&hide=contribs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeNjK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-___
+
 ## В процессе изучения находятся:
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -35,7 +33,6 @@ ___
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-___
 ## Мои контакты
 <a href="https://t.me/FeNjK">
   <img alt="Telegram" width="30" height="30" src="https://cdn.icon-icons.com/icons2/2429/PNG/96/telegram_logo_icon_147228.png"/>
@@ -47,5 +44,3 @@ ___
   <img alt="e-mail" width="30" height="30" src="https://cdn.icon-icons.com/icons2/1154/PNG/96/1486564396-mail_81524.png"/>
 <a href="https://career.habr.com/fenjk1">
   <img alt="ХабрКарьера" width="30" height="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/96/habr_logo_icon_145210.png"/>
-
-  ___
