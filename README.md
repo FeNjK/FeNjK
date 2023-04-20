@@ -43,4 +43,4 @@
 <a href="mailto:bodhisatva_xp@mai.ru">
   <img alt="e-mail" width="30" height="30" src="https://cdn.icon-icons.com/icons2/1154/PNG/96/1486564396-mail_81524.png"/>
 <a href="https://career.habr.com/fenjk1">
-  <img alt="ХабрКарьера" width="30" height="30" src="https://cdn.icon-icons.com/icons2/2389/PNG/96/habr_logo_icon_145210.png"/>
+  <img alt="ХабрКарьера" width="30" height="30" src="https://exiterra.com/images/statya/blg7.jpg"/>
