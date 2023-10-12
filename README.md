@@ -4,11 +4,12 @@
 
 <h2 style="text-align: center; font-style: normal; font-weight: 400; font-size: 20px; line-height: 1.5;">Меня зовут <span style="font-weight: 700;">Андрей</span>. Я начинающий <em>frontend-разработчик</em>.</h2>
 
-В прошлой жизни мне очень часто приходилось сталкиваться с отсутствием удобных интерфейсов для выполнения стоящих передо мной задач. Теперь я здесь и попытаюсь это изменить.
+В прошлой жизни мне очень часто приходилось сталкиваться с отсутствием удобных интерфейсов для выполнения стоящих передо мной задач. Теперь я здесь, и попытаюсь это изменить.
 
 ## Инструменты: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -26,10 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeNjK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## В процессе изучения находятся:
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
